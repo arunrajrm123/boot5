@@ -1,0 +1,14 @@
+#nav{
+    width: 100%;
+    position:fixed;
+    z-index: 1;
+   
+}
+#carouselExampleIndicators{
+padding-top:7rem;
+padding-left: 2rem;
+padding-right: 1rem;
+}
+
+
+
